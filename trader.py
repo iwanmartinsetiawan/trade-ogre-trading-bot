@@ -4,9 +4,9 @@ import time
 import datetime
 import sys
 
-trade_ogre_api_key = 'xdlolmao'
-trade_ogre_secret_key = 'xdlolmao'
-COINS = ['RVN', 'LTC', 'XMR', 'ETH']
+trade_ogre_api_key = 'db9a6605a97cc550855146b3d05dde32'
+trade_ogre_secret_key = 'ca195986c18fb9c19dd81d14389630f2'
+COINS = ['RVN', 'LTC', 'XMR', 'ETH', 'DOGE', 'BEAM']
 
 debug = '--debug' in sys.argv
 base_url = 'https://tradeogre.com/api/v1'
@@ -178,4 +178,4 @@ if __name__ == '__main__':
 
 
 # jesus christ this was the 1st real project i made and i just came back to it 2 years later... VERY glad i dont code like this anymore
-# cuz holy crap this code is dogshit
+# also those aren't my real keys, just jokin bro :)
