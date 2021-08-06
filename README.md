@@ -1,4 +1,4 @@
-# trade-ogre-trader
+# trade-ogre-trading-bot
 This is a crypto trading bot that uses the Trade Ogre exchange to place orders.
 
 SETUP:
@@ -18,4 +18,5 @@ Set the API keys to your own
 Profit.
 
 use at own risk,recomendend balance bitcoin 0.01 and up,dont trade coins with small volume is high risk
-donate bitcoin   bc1qcaqhqtf0fn7hp7agza8skwwq7m8dm7s6vxnhhxuq4mlk426qtl8q756876`
+bitcoin tips:   bc1qcaqhqtf0fn7hp7agza8skwwq7m8dm7s6vxnhhxuq4mlk426qtl8q756876`
+monero tips:    85kfRE27FmuXXdonr6VH8D37LbmwXdkeSYYqQTzdtfKRSFTbonZf6DhASHBLrAV6sEdm8GLsdTHpATPw92KbzRZU2Pc9AhL
