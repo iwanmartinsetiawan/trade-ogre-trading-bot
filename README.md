@@ -1,5 +1,5 @@
 # trade-ogre-trader
-This is a crypto trading bot that uses the Trade Ogre exchange to place orders and data from Binanace.
+This is a crypto trading bot that uses the Trade Ogre exchange to place orders.
 
 SETUP:
 
