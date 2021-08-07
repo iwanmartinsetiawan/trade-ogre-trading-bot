@@ -14,6 +14,7 @@ git clone https://github.com/smilodon76/trade-ogre-trader.git
 cd trade-ogre-trader
 nano (*or whatever text editor you want :p*) trader.py
 Set the API keys to your own
+Set your favorite coins ['ETH','XMR',etc...]
 (back in terminal) python trader.py
 Profit.
 
