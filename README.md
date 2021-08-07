@@ -10,7 +10,7 @@ BE SURE TO HAVE PYTHON INSTALLED!
 In your terminal:
 
 ```
-git clone https://github.com/smilodon76/trade-ogre-trader.git
+git clone https://github.com/smilodon76/trade-ogre-trading-bot.git
 cd trade-ogre-trader
 nano (*or whatever text editor you want :p*) trader.py
 Set the API keys to your own
