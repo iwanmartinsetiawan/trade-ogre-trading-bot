@@ -21,3 +21,4 @@ Profit.
 use at own risk,recomendend balance bitcoin 0.01 and up,dont trade coins with small volume is high risk
 bitcoin tips:   bc1qcaqhqtf0fn7hp7agza8skwwq7m8dm7s6vxnhhxuq4mlk426qtl8q756876`
 monero tips:    85kfRE27FmuXXdonr6VH8D37LbmwXdkeSYYqQTzdtfKRSFTbonZf6DhASHBLrAV6sEdm8GLsdTHpATPw92KbzRZU2Pc9AhL
+Καλά κέρδη!
