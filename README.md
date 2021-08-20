@@ -11,7 +11,7 @@ In your terminal:
 
 ```
 git clone https://github.com/smilodon76/trade-ogre-trading-bot.git
-cd trade-ogre-trader
+cd trade-ogre-trading-bot
 nano (*or whatever text editor you want :p*) trader.py
 Set the API keys to your own
 Set your favorite coins ['ETH','XMR',etc...]
